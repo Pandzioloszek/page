@@ -1,0 +1,43 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #ffffff;
+  height: 114px;
+  position: relative;
+  overflow: hidden;
+}
+.dzie-bezpiecznego-internetu-1 {
+  width: 400px;
+  height: 160px;
+  position: absolute;
+  left: -118px;
+  top: -26px;
+  object-fit: cover;
+}
+.dzie-bezpiecznego-internetu {
+  color: #000000;
+  text-align: left;
+  font-family: var(--title-hero-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--title-hero-font-size, 72px);
+  line-height: var(--title-hero-line-height, 120%);
+  letter-spacing: var(--title-hero-letter-spacing, -0.03em);
+  font-weight: var(--title-hero-font-weight, 700);
+  position: absolute;
+  left: 230px;
+  top: 0px;
+  width: 1052px;
+  height: 114px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vector-1 {
+  width: 3.07px;
+  height: 48.17px;
+  position: absolute;
+  left: 221.96px;
+  top: 39.04px;
+  overflow: visible;
+}
